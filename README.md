@@ -7,6 +7,8 @@ Rabbitmq feed into logstash and logstash insert into elasticsearch
 
 ```bash
 docker-compose up -d 
+or use
+./restart.sh
 ```
 
 # Log
