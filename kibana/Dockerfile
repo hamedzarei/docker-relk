@@ -1,4 +1,4 @@
-FROM kibana:5.6.6
+FROM kibana:7.1.1
 
 RUN apt-get update && apt-get install -y netcat
 
